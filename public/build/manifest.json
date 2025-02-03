@@ -1,0 +1,292 @@
+{
+  "_FieldGroup-ByT6-SUL.js": {
+    "file": "assets/FieldGroup-ByT6-SUL.js",
+    "name": "FieldGroup",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_FileInput-D2e3HQQU.js": {
+    "file": "assets/FileInput-D2e3HQQU.js",
+    "name": "FileInput",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_FilterBar-CnrWuzsb.js": {
+    "file": "assets/FilterBar-CnrWuzsb.js",
+    "name": "FilterBar",
+    "imports": [
+      "resources/js/app.tsx",
+      "_index-EEeLZrY6.js",
+      "_SelectInput-BParOk81.js",
+      "_Table-DeUGupid.js",
+      "_FieldGroup-ByT6-SUL.js",
+      "_MainLayout-DzRx1gdO.js"
+    ]
+  },
+  "_LoadingButton-CMfpK445.js": {
+    "file": "assets/LoadingButton-CMfpK445.js",
+    "name": "LoadingButton",
+    "imports": [
+      "resources/js/app.tsx",
+      "_index-EEeLZrY6.js"
+    ]
+  },
+  "_MainLayout-DzRx1gdO.js": {
+    "file": "assets/MainLayout-DzRx1gdO.js",
+    "name": "MainLayout",
+    "imports": [
+      "resources/js/app.tsx",
+      "_index-EEeLZrY6.js"
+    ]
+  },
+  "_SelectInput-BParOk81.js": {
+    "file": "assets/SelectInput-BParOk81.js",
+    "name": "SelectInput",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_Table-DeUGupid.js": {
+    "file": "assets/Table-DeUGupid.js",
+    "name": "Table",
+    "imports": [
+      "resources/js/app.tsx",
+      "_MainLayout-DzRx1gdO.js"
+    ]
+  },
+  "_TrashedMessage-DgAemzx_.js": {
+    "file": "assets/TrashedMessage-DgAemzx_.js",
+    "name": "TrashedMessage",
+    "imports": [
+      "resources/js/app.tsx",
+      "_MainLayout-DzRx1gdO.js",
+      "_trash-2-DF02vzBG.js"
+    ]
+  },
+  "_index-EEeLZrY6.js": {
+    "file": "assets/index-EEeLZrY6.js",
+    "name": "index",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_trash-2-DF02vzBG.js": {
+    "file": "assets/trash-2-DF02vzBG.js",
+    "name": "trash-2",
+    "imports": [
+      "_MainLayout-DzRx1gdO.js"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-DSJ8CNCN.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/Pages/Auth/Login.tsx": {
+    "file": "assets/Login-CjcKcG3U.js",
+    "name": "Login",
+    "src": "resources/js/Pages/Auth/Login.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_index-EEeLZrY6.js",
+      "_LoadingButton-CMfpK445.js",
+      "_FieldGroup-ByT6-SUL.js"
+    ]
+  },
+  "resources/js/Pages/Contacts/Create.tsx": {
+    "file": "assets/Create-SXF7OPV2.js",
+    "name": "Create",
+    "src": "resources/js/Pages/Contacts/Create.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_MainLayout-DzRx1gdO.js",
+      "_LoadingButton-CMfpK445.js",
+      "_FieldGroup-ByT6-SUL.js",
+      "_SelectInput-BParOk81.js",
+      "_index-EEeLZrY6.js"
+    ]
+  },
+  "resources/js/Pages/Contacts/Edit.tsx": {
+    "file": "assets/Edit-DCxJNNQY.js",
+    "name": "Edit",
+    "src": "resources/js/Pages/Contacts/Edit.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_MainLayout-DzRx1gdO.js",
+      "_TrashedMessage-DgAemzx_.js",
+      "_LoadingButton-CMfpK445.js",
+      "_FieldGroup-ByT6-SUL.js",
+      "_SelectInput-BParOk81.js",
+      "_index-EEeLZrY6.js",
+      "_trash-2-DF02vzBG.js"
+    ]
+  },
+  "resources/js/Pages/Contacts/Index.tsx": {
+    "file": "assets/Index-CoWm2wzo.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Contacts/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_MainLayout-DzRx1gdO.js",
+      "_FilterBar-CnrWuzsb.js",
+      "_Table-DeUGupid.js",
+      "_trash-2-DF02vzBG.js",
+      "_index-EEeLZrY6.js",
+      "_SelectInput-BParOk81.js",
+      "_FieldGroup-ByT6-SUL.js"
+    ]
+  },
+  "resources/js/Pages/Dashboard/Index.tsx": {
+    "file": "assets/Index-D0v__8xi.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Dashboard/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_MainLayout-DzRx1gdO.js",
+      "_index-EEeLZrY6.js"
+    ]
+  },
+  "resources/js/Pages/Error.tsx": {
+    "file": "assets/Error-LeMwT1WX.js",
+    "name": "Error",
+    "src": "resources/js/Pages/Error.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "resources/js/Pages/Organizations/Create.tsx": {
+    "file": "assets/Create-BvB0-A8O.js",
+    "name": "Create",
+    "src": "resources/js/Pages/Organizations/Create.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_MainLayout-DzRx1gdO.js",
+      "_LoadingButton-CMfpK445.js",
+      "_FieldGroup-ByT6-SUL.js",
+      "_SelectInput-BParOk81.js",
+      "_index-EEeLZrY6.js"
+    ]
+  },
+  "resources/js/Pages/Organizations/Edit.tsx": {
+    "file": "assets/Edit-B5anhrxc.js",
+    "name": "Edit",
+    "src": "resources/js/Pages/Organizations/Edit.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_MainLayout-DzRx1gdO.js",
+      "_TrashedMessage-DgAemzx_.js",
+      "_LoadingButton-CMfpK445.js",
+      "_FieldGroup-ByT6-SUL.js",
+      "_SelectInput-BParOk81.js",
+      "_Table-DeUGupid.js",
+      "_index-EEeLZrY6.js",
+      "_trash-2-DF02vzBG.js"
+    ]
+  },
+  "resources/js/Pages/Organizations/Index.tsx": {
+    "file": "assets/Index-BclWgmAw.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Organizations/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_MainLayout-DzRx1gdO.js",
+      "_FilterBar-CnrWuzsb.js",
+      "_Table-DeUGupid.js",
+      "_trash-2-DF02vzBG.js",
+      "_index-EEeLZrY6.js",
+      "_SelectInput-BParOk81.js",
+      "_FieldGroup-ByT6-SUL.js"
+    ]
+  },
+  "resources/js/Pages/Reports/Index.tsx": {
+    "file": "assets/Index-C_p91fet.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Reports/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_MainLayout-DzRx1gdO.js",
+      "_index-EEeLZrY6.js"
+    ]
+  },
+  "resources/js/Pages/Users/Create.tsx": {
+    "file": "assets/Create-iRcxBjlI.js",
+    "name": "Create",
+    "src": "resources/js/Pages/Users/Create.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_MainLayout-DzRx1gdO.js",
+      "_LoadingButton-CMfpK445.js",
+      "_FieldGroup-ByT6-SUL.js",
+      "_SelectInput-BParOk81.js",
+      "_FileInput-D2e3HQQU.js",
+      "_index-EEeLZrY6.js"
+    ]
+  },
+  "resources/js/Pages/Users/Edit.tsx": {
+    "file": "assets/Edit-Bb_kd1cN.js",
+    "name": "Edit",
+    "src": "resources/js/Pages/Users/Edit.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_MainLayout-DzRx1gdO.js",
+      "_TrashedMessage-DgAemzx_.js",
+      "_LoadingButton-CMfpK445.js",
+      "_FieldGroup-ByT6-SUL.js",
+      "_SelectInput-BParOk81.js",
+      "_FileInput-D2e3HQQU.js",
+      "_index-EEeLZrY6.js",
+      "_trash-2-DF02vzBG.js"
+    ]
+  },
+  "resources/js/Pages/Users/Index.tsx": {
+    "file": "assets/Index-Ja8NhBjt.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Users/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_MainLayout-DzRx1gdO.js",
+      "_FilterBar-CnrWuzsb.js",
+      "_Table-DeUGupid.js",
+      "_trash-2-DF02vzBG.js",
+      "_index-EEeLZrY6.js",
+      "_SelectInput-BParOk81.js",
+      "_FieldGroup-ByT6-SUL.js"
+    ]
+  },
+  "resources/js/app.tsx": {
+    "file": "assets/app-B0E2HKya.js",
+    "name": "app",
+    "src": "resources/js/app.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Auth/Login.tsx",
+      "resources/js/Pages/Contacts/Create.tsx",
+      "resources/js/Pages/Contacts/Edit.tsx",
+      "resources/js/Pages/Contacts/Index.tsx",
+      "resources/js/Pages/Dashboard/Index.tsx",
+      "resources/js/Pages/Error.tsx",
+      "resources/js/Pages/Organizations/Create.tsx",
+      "resources/js/Pages/Organizations/Edit.tsx",
+      "resources/js/Pages/Organizations/Index.tsx",
+      "resources/js/Pages/Reports/Index.tsx",
+      "resources/js/Pages/Users/Create.tsx",
+      "resources/js/Pages/Users/Edit.tsx",
+      "resources/js/Pages/Users/Index.tsx"
+    ]
+  }
+}
