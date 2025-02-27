@@ -1,4 +1,4 @@
-import{j as e,x as l,r as c,X as p,S as v}from"./app-B0E2HKya.js";import{c as m,L as w}from"./index-EEeLZrY6.js";function d({icon:s,link:t,text:r}){const n=route().current(t+"*"),i=m({"text-white":n,"text-indigo-400 group-hover:text-white":!n}),o=m({"text-white":n,"text-indigo-200 group-hover:text-white":!n});return e.jsx("div",{className:"mb-4",children:e.jsxs(l,{href:route(t),className:"flex items-center group py-3 space-x-3",children:[e.jsx("div",{className:i,children:s}),e.jsx("div",{className:o,children:r})]})})}/**
+import{j as e,x as l,r as c,X as p,S as v}from"./app-C-HjhYzH.js";import{c as m,L as w}from"./index-B5uPH2T6.js";function d({icon:s,link:t,text:r}){const n=route().current(t+"*"),i=m({"text-white":n,"text-indigo-400 group-hover:text-white":!n}),o=m({"text-white":n,"text-indigo-200 group-hover:text-white":!n});return e.jsx("div",{className:"mb-4",children:e.jsxs(l,{href:route(t),className:"flex items-center group py-3 space-x-3",children:[e.jsx("div",{className:i,children:s}),e.jsx("div",{className:o,children:r})]})})}/**
  * @license lucide-react v0.378.0 - ISC
  *
  * This source code is licensed under the ISC license.

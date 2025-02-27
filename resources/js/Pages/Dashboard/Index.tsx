@@ -5,9 +5,23 @@ function DashboardPage() {
   return (
     <div>
       <h1 className="mb-8 text-3xl font-bold">Dashboard</h1>
+      <br />
+        <p>
+          <a className="mx-1 text-indigo-600 underline hover:text-orange-500" href="https://tmsearch.uspto.gov/search/search-results">
+            https://tmsearch.uspto.gov/search/search-results
+          </a>
+        </p>
+        <br />
+        <p>
+          <a className="mx-1 text-indigo-600 underline hover:text-orange-500" href="https://sis.nipo.gov.ua/en/search/simple/">
+            https://sis.nipo.gov.ua/en/search/simple/
+          </a>
+        </p>
+        <br />
       <p className="mb-12 leading-normal">
         Hey there! Welcome to Ping CRM, a demo app designed to help illustrate
         how
+        
         <a
           className="mx-1 text-indigo-600 underline hover:text-orange-500"
           href="https://inertiajs.com"
